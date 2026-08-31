@@ -1,6 +1,29 @@
 {
-  "project_info": {"project_number": "123456789", "project_id": "demo-app", "storage_bucket": "demo.appspot.com"},
-  "client": [{"client_info": {"mobilesdk_app_id": "1:123456789:android:123", "android_client_info": {"package_name": "com.example.app"}}, "api_key": [{"current_key": "dummy_key"}]}],
+  "project_info": {
+    "project_number": "849156989897",
+    "project_id": "taskflow-auto",
+    "storage_bucket": "taskflow-auto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849156989897:android:d4c14e6fe37074a362fe18",
+        "android_client_info": {
+          "package_name": "com.aistudio.taskflowauto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHvUiwhgY52zv_UiOBEOmp8GbH0gHMkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
   "configuration_version": "1"
 }
-
