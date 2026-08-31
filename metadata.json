@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Auto",
+  "description": "Production-ready task management and automation hub with Firebase and Termux integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
